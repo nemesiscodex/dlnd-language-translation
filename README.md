@@ -5,3 +5,5 @@ Udacity Deep Learning Foundations - Project 4
 Neural network machine translation. 
 
 Sequence to sequence model trained on a dataset of English and French sentences that can translate new sentences from English to French.
+
+See [notebook](dlnd_language_translation.ipynb)
